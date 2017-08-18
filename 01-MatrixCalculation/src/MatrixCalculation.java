@@ -5,7 +5,6 @@ public class MatrixCalculation {
 
 
 	/**
-	 * 啊实打实大苏打撒旦撒
 	 * 矩阵类，实现矩阵的加法，矩阵乘法
 	 * 其中加法和乘法方法需要有两种实现方式
 	 * 1.传入一个MyMatrix对象进行2个矩阵的操作
